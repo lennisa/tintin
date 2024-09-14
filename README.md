@@ -1,2 +1,2 @@
 # tintin
-A game modified version of flappy bird.
+A game that is a modified version of flappy bird.
